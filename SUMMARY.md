@@ -3,7 +3,7 @@
 * [简介](README.md)
 * [1.java基础](1.java基础/1.0.README.md)
     * [1.1.Collections](1.java基础/1.1.Collections.md)
-    * [1.2.多线程并发(concurrent包)](1.java基础/1.2.多线程并发.md)
+    * [1.2.线程并发包](1.java基础/1.2.多线程并发.md)
     * [1.3.设计模式](1.java基础/1.3.设计模式.md)
     * [1.4.动态代理](1.java基础/1.4.动态代理.md)
     * [1.5.JDBC](1.java基础/1.5.JDBC.md)
